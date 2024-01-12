@@ -1,4 +1,4 @@
-# Discussion-1
+# discussionwk1
 Name:Yichen Zhang
 Umich uniquename: zhyichen
 
