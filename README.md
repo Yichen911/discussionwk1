@@ -1,5 +1,4 @@
 # discussionwk1
-Name:Yichen Zhang
-Umich uniquename: zhyichen
+<h1>Yichen Zhang</h1>
 
 
